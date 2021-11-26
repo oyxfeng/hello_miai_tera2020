@@ -2,7 +2,7 @@
     "domain": "hello_miai",
     "name": "hello_miai",
     "documentation": "https://www.example.com",
-    "dependencies": [],
-    "codeowners": [],
-    "requirements": []
+    "issue_tracker": "https://www.example.com",
+    "codeowners": ["@harepo"],
+    "version": "v1.0.0"
   }
